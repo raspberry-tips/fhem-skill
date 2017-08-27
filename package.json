@@ -1,0 +1,19 @@
+{
+  "name": "fhem-skill",
+  "version": "1.0.0",
+  "description": "FHEM Custom Skill for Alexa on Alexa App Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raspberry-tips/fhem-skill.git"
+  },
+  "author": "Raspberry.Tips - http://raspberry.tips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raspberry-tips/fhem-skill/issues"
+  },
+  "homepage": "https://github.com/raspberry-tips/fhem-skill#readme"
+}
